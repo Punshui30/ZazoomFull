@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="200" version="1.1" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+ <path d="M100 50L50 150h100L100 50zm0 20l33.333 66.667H66.667L100 70z" fill="#9d4edd"/>
+ <text x="200" y="120" fill="#9d4edd" font-family="Orbitron" font-size="72" font-weight="bold">ZOOM</text>
+ <path d="m600 70 60 80m-60 0 60-80" stroke="#9d4edd" stroke-linecap="round" stroke-width="8"/>
+</svg>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="M256 64L64 448h384L256 64zm0 64l128 256H128l128-256z" fill="#9d4edd"/>
+ <text x="128" y="480" fill="#9d4edd" font-family="Orbitron" font-size="48">CANNABIS DELIVERY</text>
+</svg>
